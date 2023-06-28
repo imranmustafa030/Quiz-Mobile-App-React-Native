@@ -11,7 +11,7 @@ This repository contains a cross-platform mobile application developed using Rea
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/quiz-app.git`
+1. Clone the repository: `git clone https://github.com/imranmustafa030/Quiz-Mobile-App-React-Native.git`
 2. Install dependencies: `npm install`
 3. Run the app on iOS simulator: `npx react-native run-ios`
 4. Run the app on Android emulator: `npx react-native run-android`
